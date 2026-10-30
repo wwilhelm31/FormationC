@@ -11,9 +11,9 @@ et conserver une trace de mes exercices pratiques.
 
 ## 📁 Structure
 
-- Liste1/` – variables et opérateurs (arithmétiques et ternaires)
-- Liste2/` – À venir.
-- Liste3/` – À venir.
+- Liste1 – variables et opérateurs (arithmétiques et ternaires)
+- Liste2 – À venir.
+- Liste3 – À venir.
 
 ## 🛠️ Technologies
 
